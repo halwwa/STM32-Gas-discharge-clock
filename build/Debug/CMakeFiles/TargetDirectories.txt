@@ -1,0 +1,6 @@
+D:/GitHab/indicator12b_clock/build/Debug/CMakeFiles/indicator12b_clock.dir
+D:/GitHab/indicator12b_clock/build/Debug/CMakeFiles/edit_cache.dir
+D:/GitHab/indicator12b_clock/build/Debug/CMakeFiles/rebuild_cache.dir
+D:/GitHab/indicator12b_clock/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+D:/GitHab/indicator12b_clock/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+D:/GitHab/indicator12b_clock/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
